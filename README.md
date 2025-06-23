@@ -19,5 +19,5 @@ A clean and responsive **Static Event Manager website** built using HTML, CSS, a
 
 - **HTML5** – Semantic structure
 - **CSS3** – Styling and layout
-- **JavaScript** – Interactivity (e.g., menu toggles, form behaviors)
+- **JavaScript** – Interactivity
 
