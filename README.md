@@ -21,5 +21,3 @@ A clean and responsive **Static Event Manager website** built using HTML, CSS, a
 - **CSS3** – Styling and layout
 - **JavaScript** – Interactivity (e.g., menu toggles, form behaviors)
 
-## 📁 Folder Structure
-
